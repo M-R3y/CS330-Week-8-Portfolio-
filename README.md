@@ -1,1 +1,13 @@
 # CS330-Week-8-Portfolio-
+
+How do I approach designing software?
+
+Designing software takes time and dedication, breaking down the project into smaller, manageable components and consider the best way for users to interact with the software is one my initial stage when approaching a new project. Working on this project has helped me develop new design skills, particularly in creating modular, flexible structures that allow different parts of the program to function independently while integrating seamlessly. My design process involved defining requirements, creating initial prototypes, testing their functionality, and refining the design based on results. This iterative cycle ensured that the final product was both functional and user-friendly. The tactics I used—such as modular design, prototyping, and planning user interactions—are strategies that I can apply in future projects to improve efficiency, reduce errors, and create more intuitive software.
+
+How do I approach developing programs?
+
+I approach program development by breaking down my design into coding tasks, starting with the core functionality and gradually adding features. While working on my 3D scene, I employed new development strategies, such as optimizing models for performance, using lighting and textures effectively, and debugging graphics-specific issues like shader errors or object misplacements. Iteration was a central part of my development process; I repeatedly tested, identified problems, and revised both design and code. This iterative practice ensured that each component worked correctly and contributed to a polished final project. Over the milestones, my approach to coding evolved from focusing solely on functionality to emphasizing readability, modularity, and optimization, which allowed me to complete the project efficiently while maintaining high-quality code.
+
+How can computer science help me in reaching my goals?
+
+Computer science equips me with problem-solving skills, logical thinking, and the ability to automate tasks, all of which are valuable in achieving my personal and professional goals. Working with computational graphics and visualizations has given me new skills that enhance both my educational and professional pathways. Educationally, I have learned how to model complex systems and represent data visually, which will support future studies in simulations, data analysis, and virtual environments. Professionally, these skills prepare me for careers in software development, game design, and data visualization, where the ability to create clear, interactive visuals helps communicate complex ideas effectively to colleagues and clients.
